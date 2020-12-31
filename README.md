@@ -1,5 +1,5 @@
 # Coding-assignment-TestVagrant
-The repository contains the JAVA Code for the below-mentioned scenario.
+This repository contains the JAVA Code for the below-mentioned scenario.
 
 # Scenario:
 Ram a software engineer faces an unexpected challenge. During the Covid19
