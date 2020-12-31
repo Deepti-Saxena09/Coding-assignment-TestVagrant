@@ -23,3 +23,13 @@ Output:
 
 # Description:
 For the JAVA Code of above-scenario, user needs to enter the amount and then the output will be the list of streaming services which can be taken by the user.
+
+# How to Deploy the code:
+1. Software Program called JAVA SE Development KIT (JDK) should be installed and enviorment variables should be set be in the local machine. 
+2. Any open source IDE such as Eclipse or IntelliJ IDEA can be used to execute the code. 
+3. The IDE should be downloaded.
+4. Download 'TestVagrantCodingAssignment' project from this repository.
+5. Import 'TestVagrantCodingAssignment' project into the IDE
+6. Expand the 'src' folder and Run the 'Streamsubscription.java' file
+7. Enter the amount and check the suggested subsription plans.
+
