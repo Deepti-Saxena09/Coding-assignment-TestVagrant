@@ -60,7 +60,7 @@ static int a;
 					"1a. Prime Video 1x annual subscription - 999\r\n" + 
 					"1b. Zee5 1x annual subscription - 999\r\n" + 
 					"1c. Sony liv 1x annual subscription - 999\r\n" +
-					"Or\r\n" +
+				"Or\r\n" +
 					"All the below mentioned plans can be availed:\r\n" + 
 					 "2a. Prime Video 1x annual subscription - 999\r\n" + 
 					 "2b. Zee5 1x annual subscription - 999\r\n" + 
