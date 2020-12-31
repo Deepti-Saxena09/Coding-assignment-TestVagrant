@@ -10,7 +10,7 @@ static int a;
 		
 		Scanner inp = new Scanner(System.in);
 		System.out.println("Please enter your budget for the Straming Services:");
-	    a = inp.nextInt();
+	        a = inp.nextInt();
 		plan(); 
 		   
 	}
@@ -18,12 +18,14 @@ static int a;
 	public static void plan()
 	{
 		//First Case: When Ram enters the amount which is less than 999.
+		
 		if(a<999)
 		{
 			System.out.println("No Plans Available");
 		}
 		
 		// Second Case: When Ram entered the amount which is in between 999 and 1946.
+		
 		else if (a>=999 && a<=1946)
 		{
 			System.out.println("The following streaming subsribtion plans are available:");
@@ -35,6 +37,7 @@ static int a;
 		}
 		
 		//Third Case: When Ram entered the amount which is in between 1947 and 2999.
+		
 		else if (a>1946 && a<3000)
 		{
 			System.out.println("The following streaming subsribtion plans are available:");
@@ -47,6 +50,7 @@ static int a;
 	     }
 		
 		//Fourth Case: When Ram entered 3000 amount.
+		
 		else if(a==3000)
 		{
 			System.out.println("The following streaming subsribtion plans are available:");
@@ -64,6 +68,7 @@ static int a;
 		}
 		
 		//Fifth Case: When Ram entered the amount which is in between 3001 and 4943.
+		
 		else if(a>3000 && a<=4943)
 		{
 			System.out.println("The following streaming subsribtion plans are available:");	
@@ -76,6 +81,7 @@ static int a;
 		}
 		
 		//Sixth Case: When Ram entered the amount which is greater than 4944.
+		
 		else if (a>=4944 && a>=5000)
 		{
 			System.out.println("All the following streaming subsribtion plans can be availed:");
@@ -86,6 +92,7 @@ static int a;
 		}
 		
 		//Seventh Case: When Ram enters any invalid input.
+		
 		else
 		{
 			System.out.println("No valid input value");
